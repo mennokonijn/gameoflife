@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+/Users/mennokonijn/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1282301945.index
+2951057572.index
+3401011381.index
+1623332300.index
+2689293059.index
+1865797976.index
+1168352915.index
+251647475.index
+738085532.index
+2630087290.index
+4091530122.index
+3195778635.index
+1948699421.index
+4118078172.index
+2181917350.index
+809904972.index
+1352762657.index
+721310976.index
+3372514617.index

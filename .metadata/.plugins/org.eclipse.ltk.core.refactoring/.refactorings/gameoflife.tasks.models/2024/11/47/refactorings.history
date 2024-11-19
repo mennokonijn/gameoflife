@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;gameoflife.tasks.models&apos;&#x0A;- Original project: &apos;gameoflife.tasks.models&apos;&#x0A;- Original element: &apos;spec1.tdsl &apos;" description="Delete element" element1="specs/spec1.tdsl " elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1731931674628" subPackages="false" version="1.0"/>
+</session>
